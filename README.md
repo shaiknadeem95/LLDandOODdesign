@@ -1,2 +1,2 @@
-# blogApplication
-this is a blog backend application which works with spring boot framework
+# LLA and object coding questions
+this is a code for the lld and object coding questions repo
